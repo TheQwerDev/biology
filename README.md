@@ -12,10 +12,12 @@ Dupa ce ati instalat git, mergeti in folderul unde l-ati instalat si deschideti 
 - Puteti adauga sau modifica pagini de proiect in folderul `_posts` (fie cu notepad, fie cu ce vreti voi sa editati puteti si cu codeblocks)
 - La templateurile deja existente puteti vedea cum sa adaugati poze si video
 - Dupa ce ati terminat de facut modificari, le puteti pregati pentru upload pe github cu comenzile `git add .` si `git commit -m "(puneti mesaj cu ce ati modificat aici idk)"`
-- Dupa ce ati dat commit, dati upload cu `git push origin main`
+- Dupa ce ati dat commit, dati upload cu `git push origin master`
+- Daca altcineva a facut vreun update la site si vreti sa-l aveti downloadat pe pc folositi `git pull origin master`
 
 ### Comenzi utile
 `git add .`\
 `git commit -m "[mesaj]"`\
 `git push origin [nume branch]`\
+`git pull origin [nume branch]`\
 `bundle exec jekyll serve`
