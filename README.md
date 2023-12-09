@@ -4,7 +4,9 @@ daca aveti intrebari puneti-le pe whatsapp ca eu 100% nu explic unele lucruri cu
 Vedeti tutorialul asta pentru setupul la jekyll si utilizarea lui. Voi nu trebuie sa dati fork la niciun site.
 [![](https://img.youtube.com/vi/g6AJ9qPPoyc/hqdefault.jpg)](https://www.youtube.com/embed/g6AJ9qPPoyc)
 
-Veti avea nevoie de git ca sa dati upload la modificarile facute pe pc. Il puteti lua de [aici](https://git-scm.com/downloads).\
+Aveți nevoie de ruby ca să testați siteul direct pe pc. Downloadați de [aici](https://rubyinstaller.org/)
+
+Aveți nevoie și de git ca sa dati upload la modificarile facute pe pc. Il puteti lua de [aici](https://git-scm.com/downloads).\
 Dupa ce ati instalat git, mergeti in folderul unde l-ati instalat si deschideti `git-cmd.exe`
 
 - Copiati websiteul pe pc cu comanda `git clone https://github.com/TheQwerDev/biology.git`
