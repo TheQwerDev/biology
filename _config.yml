@@ -25,7 +25,6 @@ analytics: # Google Analytics
 # Build Settings
 markdown: kramdown
 plugins:
-  - wdm
   - jekyll-sitemap
   - jekyll-paginate
   - jemoji
