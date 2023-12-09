@@ -1,7 +1,8 @@
 # Chestii necesare pentru a lucra la proiect
 daca aveti intrebari puneti-le pe whatsapp ca eu 100% nu explic unele lucruri cum trebuie
 
-[![Vedeti tutorialul asta pentru setupul la jekyll si utilizarea lui. Voi nu trebuie sa dati fork la niciun site.](https://img.youtube.com/vi/g6AJ9qPPoyc/hqdefault.jpg)](https://www.youtube.com/embed/g6AJ9qPPoyc)
+Vedeti tutorialul asta pentru setupul la jekyll si utilizarea lui. Voi nu trebuie sa dati fork la niciun site.
+[![](https://img.youtube.com/vi/g6AJ9qPPoyc/hqdefault.jpg)](https://www.youtube.com/embed/g6AJ9qPPoyc)
 
 Veti avea nevoie de git ca sa dati upload la modificarile facute pe pc. Il puteti lua de [aici](https://git-scm.com/downloads).\
 Dupa ce ati instalat git, mergeti in folderul unde l-ati instalat si deschideti `git-cmd.exe`
