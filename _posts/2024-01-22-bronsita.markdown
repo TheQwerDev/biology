@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bronsita - cauze, simptome, tratament si preventie
+title: Bronșita - cauze, simptome, tratament si preventie
 date: 2024-01-21 03:33:33 +0300
 description: the blood # Add post description (optional)
 img: bronsita.jpg # Add image post (optional)
@@ -20,8 +20,6 @@ Fara indoiala ca ai avut parte de experienta neplacuta a unei raceli si probabil
 * <A href="#preventie">Preventie</A>
 
 # Cauzele bronsitei ##
-
-Acestea pot fi:
 
 * virusurile
 * bacteriile
@@ -116,3 +114,9 @@ Cum poti reduce riscul de a face bronsita?
 * Ia medicamentele exact cum ti-a prescris medicul.
 * Mananca sanatos, pentru a avea un sistem imunitar puternic.
 * Spala-te des pe maini si mentine o igiena corporala corespunzatoare.
+
+---
+### Bronșita explicată de către un expert:
+[![](https://img.youtube.com/vi/671izjUuUY4/maxresdefault.jpg)](https://www.youtube.com/watch?v=671izjUuUY4)
+
+---
