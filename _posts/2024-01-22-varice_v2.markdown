@@ -1,0 +1,132 @@
+---
+layout: post
+title: Varicele - cauze, simptome, tratament si preventie
+date: 2024-01-21 03:33:33 +0300
+description: Hello, Stranger # Add post description (optional)
+img: bigassvein.jpeg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Holidays, Hawaii, or PVP Boss]
+youtubeId: 95G6-HycNAQ
+---
+
+# **Capitole**
+* <A href="#tipuri-de-bronșită">Tipuri de bronșită</A>
+* <A href="#simptomele-bronșitei">Simptomele bronșitei</A>
+* <A href="#simptomele-bronșitei-la-copii">Simptomele bronșitei la copii</A>
+* <A href="#cauzele-bronșitei">Cauzele bronșitei</A>
+* <A href="#complicații">Complicații</A>
+* <A href="#diagnostic">Diagnostic</A>
+* <A href="#gestionarea-bolii-si-tratamentul">Gestionarea bolii si tratamentul</A>
+* <A href="#prevenție">Prevenție</A>
+
+---
+
+Varicele reprezintă dilatații patologice și permanente ale venelor ce aparțin sistemului venos superficial, situate în majoritatea cazurilor la nivelul membrelor inferioare. 
+Varicele sau venele varicoase reprezinta manifestarea locala a bolii varicoase - o afectiune generala caracterizata printr-un proces degenerativ al peretelui venos.
+
+![disciplined]({{site.baseurl}}/assets/img/bad_varice.jpeg)
+
+# **Tipuri de varice**
+Varicele se clasifica in doua categorii:
+
+* Varice primitive (au localizari diferite)
+* Varice secundare
+
+# **Simptomele varicelor**
+Debutul afecțiunii este lent și se manifestă prin senzația de neliniște la nivelul gambei, caracterizată prin discrete amorțeli și o senzație de greutate.
+
+* picioare dureroase, grele
+* apariția venelor de păianjen (telangiectazie) la piciorul afectat
+* umflarea gleznei
+* decolorare de culoare galben-maronie a pielii în apropierea venelor afectate
+* roșeață, uscăciune și mâncărime ale zonelor pielii, denumite dermatită de stază sau eczemă venoasă
+* crampe musculare la mișcări bruște, cum ar fi statul în picioare
+* senzație de arsură sau pulsație la nivelul picioarelor
+
+
+# **Cauzele varicelor**
+![aaooaooa]({{site.baseurl}}/assets/img/oughmyleg.jpeg)
+
+Frecventa bolii varicoase este destul de mare la ambele sexe, dar predomina la femei (60%) fata de barbati (40 %).
+
+* statul prelungit în picioare
+* efortul muscular intens și prelungit, căldura și umiditatea excesivă
+* ereditatea, caz tot mai frecvent in etiopatogenia varicelor (intre 80-100%)
+* tulburari endocrine ca atare, sau produse in urma unor anumite stari (pubertate, sarcina, menopauza)
+* obezitatea
+
+# **Complicații**
+Majoritatea venelor varicoase nu sunt dăunătoare, dar varicele severe pot duce la complicații majore, din cauza circulației scăzute prin membrul afectat.
+
+* durere, sensibilitate, greutate, incapacitatea de a merge sau sta în picioare ore lungi
+* afecțiuni ale pielii care ar putea predispune pierderea pielii
+* dezvoltarea carcinomului sau a sarcomului în ulcere venoase de lungă durată. Peste 100 de cazuri au fost raportate la o rată raportată ca fiind de 0,4% - 1%
+* tromboflebită superficială
+
+# **Diagnostic**
+
+![severe case]({{site.baseurl}}/assets/img/diagnosedwithdumbass.jpeg)
+
+
+Starea valvelor venoase si a venelor poate fi evaluata cu o simpla ecografie Doppler. Examinarea ecografica este importanta in alegerea celui mai bun plan de tratament. Pe langa faptul ca aduce foarte multe informatii despre venele piciorului, ecografia Doppler este neinvaziva si nedureroasa.
+# **Gestionarea bolii si tratamentul**
+
+![teh moster is com]({{site.baseurl}}/assets/img/runningfromdanger.png)
+
+Obiectivul tratamentului bolii varicoase este reducerea simptomatologiei si prevenirea complicatiilor.
+In functie de marimea venelor, localizarea lor, simptomatologie si alte boli asociate, tratamentul varicelor poate fi conservator, medicamentos, minim- invaziv, chirugie clasica, mixt.
+
+Tratamentul la domiciliu
+
+* Exercitii fizice – mersul pe jos, cu bicicleta sau innotul se recomanda in cazul bolii varicoase
+* Purtarea de ciorapi elastici compresivi – acestia imbunatatesc circulatia si sunt principalul tratament pentru boala varicoasa simptomatica.
+* Mentinerea membrelor inferioare la orizontala sau ridicate peste acest nivel la intervale regulate – aceasta ajuta la circulatia sangelui si impiedica acumularea acestuia la nivelul venelor din membrele inferioare (staza venoasa).
+* Evitarea perioadelor indelungate de stat pe scaun sau in picioare – aceste pozitii, mentinute timp indelungat adauga un stres suplimentar venelor membrelor inferioare.
+
+Tratamentul chirurgical
+* Flebectomia ambulatorie
+* Scleroterapia (indicata in cazurile in care simptomatologia sau complicatiile se dezvolta)
+* Chirurgia clasica
+* Fotocoagularea laser
+* Tehnicile de inchidere prin radiofrecventa
+
+# **Prevenție**
+
+Cum poti reduce riscul de a face varice?
+
+* exerciții fizice regulate
+* gestionați greutatea
+* evitați perioadele prelungite de aș€zat sau în picioare.
+* alege încălțămintea potrivită.
+
+---
+### Varicele explicată de către un expert:
+{% include youtubePlayer.html id=page.youtubeId %}
+
+Hello, Stranger
+Hello, Stranger
+Team GRW is recruiting
+Whether you are parkour god
+Survival master
+or PVP Boss
+or PVP Boss
+or even Bedwars pro
+or PVP Boss
+or PVP Boss
+or even Bedwars pro
+or even Building pro
+or PVP Boss
+or even Building pro
+or even Building pro
+or PVP Boss
+We're still noobs who knows next to nothing
+or PVP Boss
+or even Building pro
+or even Redstone pro
+or even Redstone pro
+or PVP Boss
+We're still noobs who knows next to nothing
+or even Redstone pro
+or even Redstone pro
+
+---
