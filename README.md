@@ -1,3 +1,5 @@
+![](/assets/img/man.png)
+
 # Chestii necesare pentru a lucra la proiect
 daca aveti intrebari puneti-le pe whatsapp ca eu 100% nu explic unele lucruri cum trebuie
 
