@@ -6,6 +6,7 @@ description: the blood # Add post description (optional)
 img: bronsita.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
+youtubeId: 671izjUuUY4
 ---
 
 Fara indoiala ca ai avut parte de experienta neplacuta a unei raceli si probabil chiar stii pe cineva care a avut pneumonie. Intre aceste doua afectiuni exista bronsita, care este mai severa decat raceala comuna, insa nu la fel de periculoasa ca pneumonia. Bronsita inseamna inflamarea bronhiilor si a bronsiolelor (micile canale prin care circula aerul de la trahee la plaman) asociata cu mucus in exces.
@@ -116,3 +117,5 @@ Cum poti reduce riscul de a face bronsita?
 * Ia medicamentele exact cum ti-a prescris medicul.
 * Mananca sanatos, pentru a avea un sistem imunitar puternic.
 * Spala-te des pe maini si mentine o igiena corporala corespunzatoare.
+
+{% include youtubePlayer.html id=page.youtubeId %}
