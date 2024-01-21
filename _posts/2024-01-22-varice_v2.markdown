@@ -4,16 +4,15 @@ title: Varicele - cauze, simptome, tratament si preventie
 date: 2024-01-21 03:33:33 +0300
 description: Hello, Stranger # Add post description (optional)
 img: bigassvein.jpeg # Add image post (optional)
-fig-caption: # Add figcaption (optional)
+fig-caption: "Proiect #3" # Add figcaption (optional)
 tags: [Holidays, Hawaii, or PVP Boss]
 youtubeId: 95G6-HycNAQ
 ---
 
 # **Capitole**
-* <A href="#tipuri-de-bronșită">Tipuri de bronșită</A>
-* <A href="#simptomele-bronșitei">Simptomele bronșitei</A>
-* <A href="#simptomele-bronșitei-la-copii">Simptomele bronșitei la copii</A>
-* <A href="#cauzele-bronșitei">Cauzele bronșitei</A>
+* <A href="#tipuri-de-varice">Tipuri de varice</A>
+* <A href="#simptomele-varicelor">Simptomele varicelor</A>
+* <A href="#cauzele-varicelor">Cauzele varicelor</A>
 * <A href="#complicații">Complicații</A>
 * <A href="#diagnostic">Diagnostic</A>
 * <A href="#gestionarea-bolii-si-tratamentul">Gestionarea bolii si tratamentul</A>
