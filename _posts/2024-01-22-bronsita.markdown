@@ -4,7 +4,7 @@ title: Bronșita - cauze, simptome, tratament si preventie
 date: 2024-01-21 03:33:33 +0300
 description: # Add post description (optional)
 img: bronsita_thumbnail.jpg # Add image post (optional)
-fig-caption: Proiect #2 # Add figcaption (optional)
+fig-caption: "Proiect #2" # Add figcaption (optional)
 tags: [Holidays, Hawaii]
 youtubeId: 671izjUuUY4
 ---
