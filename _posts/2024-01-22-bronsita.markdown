@@ -1,0 +1,118 @@
+---
+layout: post
+title: Bronsita - cauze, simptome, tratament si preventie
+date: 2024-01-21 03:33:33 +0300
+description: the blood # Add post description (optional)
+img: bronsita.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Holidays, Hawaii]
+---
+
+Fara indoiala ca ai avut parte de experienta neplacuta a unei raceli si probabil chiar stii pe cineva care a avut pneumonie. Intre aceste doua afectiuni exista bronsita, care este mai severa decat raceala comuna, insa nu la fel de periculoasa ca pneumonia. Bronsita inseamna inflamarea bronhiilor si a bronsiolelor (micile canale prin care circula aerul de la trahee la plaman) asociata cu mucus in exces.
+
+* <A href="#cauzele-bronsitei">Cauzele bronsitei</A>
+* <A href="#tipuri-de-bronsita">Tipuri de bronsita</A>
+* <A href="#factori-de-risc">Factori de risc</A>
+* <A href="#simptomele-bronsitei">Simptomele bronsitei</A>
+* <A href="#diagnostic">Diagnostic</A>
+* <A href="#gestionarea-bolii-si-tratamentul">Gestionarea bolii si tratamentul</A>
+* <A href="#complicatiile-bronsitei">Complicatiile bronsitei</A>
+* <A href="#preventie">Preventie</A>
+
+# Cauzele bronsitei ##
+
+Acestea pot fi:
+
+* virusurile
+* bacteriile
+* particulele care irita tuburile bronsice
+* fumatul
+* poluarea
+
+# Tipuri de bronsita ##
+
+In functie de cauze, exista doua tipuri de bronsita.
+
+## Bronsita acuta sau de scurta durata
+
+Este forma mai frecventa si este de obicei provocata de o infectie virala. Episoadele de bronsita acuta pot fi asociate cu fumatul sau pot fi agravate de fumat.
+
+## Bronsita cronica
+
+Afectiune caracterizata de tuse care persista timp de 2-3 luni in fiecare an, cel putin 2 ani. Tusea si inflamatia pot fi determinate de o infectie, o boala sau de expunerea la fumul de tigara sau la alte substante iritante din mediu.
+
+# Factori de risc ##
+
+Factorii de risc pentru declansarea bronsitei pot fi:
+
+* fumatul
+* sistemul imunitar slabit
+* expunerea la agenti iritanti
+* alergiile
+
+# Simptomele bronsitei ##
+
+Simptomele bronsitei sunt:
+
+* Tuse frecventa cu productie de mucus
+* Disconfort la nivelul pieptului
+* Dificultati in respiratie
+* Nas si sinusuri blocate
+* Respiratie suieratoare (poate sa nu fie prezenta)
+* Febra (poate sa nu fie prezenta) si frison
+* Lipsa de energie, oboseala
+
+# Diagnostic ##
+
+Diagnosticul este stabilit in baza unui consult clinic (fizic) efectuat de catre medicul de familie, medicul generalist, medicul specialist in medicina interna sau de catre un medic pneumolog. Pe langa examenul clinic si anamneza, pot fi necesare:
+
+* teste de spirometrie
+* radiografii pulmonare
+* examen de sputa
+* analize de sange
+
+## Mergi la medic daca:
+
+* Ai o raceala care dureaza mai mult de 2-3 saptamani
+* Ai febra peste 39 C
+* Ai febra care dureaza mai mult de 5 zile
+* Tusesti si expectorezi cu sange
+* Respiri cu dificultate sau cu suierat
+* Observi modificari ale culorii mucusului expectorat
+
+# Gestionarea bolii si tratamentul ##
+
+Majoritatea cazurilor de bronsita acuta sunt determinate de virusuri si se vindeca fara tratament medicamentos. Tratamentul este stabilit in functie de factorul declansator. Daca medicul considera ca a intervenit suprainfectarea bacteriana, adauga in schema de tratament un antibiotic, conform rezultatelor antibiogramei. De asemenea, poate recomanda medicamente antitermice (pentru scaderea febrei), aerosoli, precum si o serie de sfaturi igieno-dietetice de urmat. Acestea pot fi:
+
+* Bea lichide la fiecare 1-2 ore (exceptie face cazul in care medicul ti-a recomandat sa limitezi aportul de lichide)
+* Odihneste-te
+* Renunta la fumat
+* Amelioreaza durerile cu ajutorul aspirinei sau acetaminofenului
+* Respecta recomandarile medicului privind curatarea mucusului
+* Daca ai tuse severa sau care te impiedica sa dormi, medicul iti poate recomanda medicamente care suprima tusea. Daca ai tuse uscata sau dificultati in eliminarea mucusului, medicul iti poate prescrie un expectorant
+* Daca ai tuse umeda, productiva (cu mucus), observa cat de des tusesti, precum si cantitatea de sputa (mucus). Comunica-i medicului aceste aspecte.
+
+Pentru ameliorarea simptomatologiei, medicul mai poate recomanda diferite preparate fitoterapeutice (produse care contin de exemplu extracte de echinacea, maces, eucalipt) sau chiar remedii naturiste, precum ceaiuri din diferite plante (cimbrisor, eucalipt) si miere.
+
+# Complicatiile bronsitei ##
+
+Acestea pot fi:
+
+* pneumonie
+* emfizem pulmonar
+* boala pulmonara obstructiv cronica
+* pneumoscleroza
+* bronsiectazie
+
+# Preventie ##
+
+Cum poti reduce riscul de a face bronsita?
+
+* Renunta la fumat
+* Insista ca ceilalti sa nu fumeze in casa.
+* Evita sau redu timpul petrecut intr-un mediu iritant pentru caile respiratorii (nas, gat si plamani).
+* Evita spatiile aglomerate
+* Daca racesti, odihneste-te mai mult.
+* Ia medicamentele exact cum ti-a prescris medicul.
+* Mananca sanatos, pentru a avea un sistem imunitar puternic.
+* Spala-te des pe maini si mentine o igiena corporala corespunzatoare.
