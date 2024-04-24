@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cleroza in placi - cauze, simptome, tratament si preventie
+title: Scleroza in placi - cauze, simptome, tratament si preventie
 date: 2024-04-24 03:33:33 +0300
 description: # Add post description (optional)
 img: Scleroza-multipla.png # Add image post (optional)
@@ -15,7 +15,7 @@ youtubeId: CV0C-hnR0nQ
 * <A href="#cauzele-bronșitei">Cauzele bronșitei</A>
 * <A href="#complicații">Complicații</A>
 * <A href="#diagnostic">Diagnostic</A>
-* <A href="#tratamentul">tratamentul</A>
+* <A href="#tratamentul">Tratamentul</A>
 
 ---
 
@@ -100,7 +100,7 @@ Pentru diagnosticarea sclerozei multiple, este nevoie de analizarea simptomelor 
 * teste senzoriale
 * analize de sange - necesare pentru a elimina posibilitatea prezentei unei alte boli care are simptome asemanatoare cu cele ale sclerozei multiple.
 
-# **tratamentul**
+# **Tratamentul**
 
 ![ceai de dimineata]({{site.baseurl}}/assets/img/poza_cu_niste_ceai_aia_zic.webp)
 
