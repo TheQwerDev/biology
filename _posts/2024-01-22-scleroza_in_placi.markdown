@@ -75,7 +75,7 @@ Simptomele sclerozei multiple pot fi grupate si in functie de frecventa cu care 
 
 # **Complicații**
 
-![poza cu cineva care este in depresiones]({{site.baseurl}}/assets/img/depresiones.jpg)
+![poza cu cineva care este in depresiones]({{site.baseurl}}/assets/img/Depresiones.jpg)
 
 Evolutia sclerozei multiple si faptul ca aceasta este declansata de probleme neurologice pot avea ca rezultat, in timp, aparitia unor complicatii:
 
