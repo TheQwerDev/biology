@@ -116,6 +116,6 @@ Printre tratamentele pe care un medic le recomanda unui pacient care sufera de s
 * medicamente pentru probleme gastrointestinale.
 
 ---
-### Bronșita explicată de către un expert:
+### Scleroza în plăci explicată de către un expert:
 {% include youtubePlayer.html id=page.youtubeId %}
 ---
