@@ -12,7 +12,7 @@ youtubeId: CV0C-hnR0nQ
 # **Capitole**
 * <A href="#Tipuri-de-scleroză-multiplă">Tipuri de scleroză multiplă</A>
 * <A href="#simptomele">Simptomele</A>
-* <A href="#cauzele-bronșitei">Cauzele bronșitei</A>
+* <A href="#cauzele-sclerozei-in-placi">Cauzele sclerozei in placi</A>
 * <A href="#complicații">Complicații</A>
 * <A href="#diagnostic">Diagnostic</A>
 * <A href="#tratamentul">Tratamentul</A>
