@@ -65,7 +65,7 @@ Simptomele sclerozei multiple pot fi grupate si in functie de frecventa cu care 
 
 ![Nu vrei sa iei bronșită trust me bro]({{site.baseurl}}/assets/img/boala-care-schimba-vieti.jpg)
 
-# **Cauzele bronșitei**
+# **Cauzele sclerozei in placi**
 ![Nu vrei sa iei bronșită trust me bro]({{site.baseurl}}/assets/img/Cauze-IDFK.jpg)
 * infectiile microbiene
 * infectiile virale - unul dintre argumentele care le incadreaza printre factorii de risc este ca au produs demielinizarea la animale
